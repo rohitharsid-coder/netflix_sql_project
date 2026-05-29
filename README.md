@@ -2,6 +2,7 @@
 [netflix logo](https://github.com/rohitharsid-coder/netflix_sql_project/blob/main/NETFLIX_LOGO.png)
  <html>
   <body>
+   <IMG SRC ="https://github.com/rohitharsid-coder/netflix_sql_project/blob/main/NETFLIX_LOGO.png" >
 <h2>
   OVERVIEW 
 </h2>
@@ -12,7 +13,7 @@ Identify the most common ratings for movies and TV shows.
 List and analyze content based on release years, countries, and durations.
 Explore and categorize content based on specific criteria and keywords.</P1>
 
-<IMG SRC ="https://github.com/rohitharsid-coder/netflix_sql_project/blob/main/NETFLIX_LOGO.png" >
+ 
     
   </body>
  </html>
