@@ -1,2 +1,2 @@
 # netflix_sql_project
-[netflix_logo](  )
+[netflix logo](https://github.com/rohitharsid-coder/netflix_sql_project/blob/main/NETFLIX_LOGO.png)
